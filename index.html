@@ -17,14 +17,16 @@
     />
     <title>WorkAdventure Starter Kit</title>
     <script>
-      const host = window.location.host;
-      let path = window.location.pathname;
-      if (path.endsWith("index.html")) {
-        path = path.substr(path, path.length - "index.html".length);
-      }
-      const instanceId = Math.random().toString(36).substring(2, 15);
-      const url = `https://play.workadventu.re/_/${instanceId}/${host}${path}challenge1.json`;
-      window.location.href = url;
+      window.onload = function () {
+        const host = window.location.host;
+        let path = window.location.pathname;
+        if (path.endsWith("index.html")) {
+          path = path.substr(path, path.length - "index.html".length);
+        }
+        const instanceId = Math.random().toString(36).substring(2, 15);
+        const url = `https://play.workadventu.re/_/${instanceId}/${host}${path}challenge1.json`;
+        window.location.href = url;
+      };
     </script>
     <style>
       body {
