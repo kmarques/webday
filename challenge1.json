@@ -451,7 +451,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":30,
          "id":24,
-         "name":"#gdsgs'352_start2",
+         "name":"gdsgs'352_start2",
          "opacity":1,
          "properties":[
                 {
@@ -503,7 +503,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":30,
          "id":25,
-         "name":"#gdss1252_start3",
+         "name":"gdss1252_start3",
          "opacity":1,
          "properties":[
                 {
@@ -550,7 +550,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":30,
          "id":26,
-         "name":"#gdss1275_start4",
+         "name":"gdss1275_start4",
          "opacity":1,
          "properties":[
                 {
@@ -597,7 +597,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":30,
          "id":27,
-         "name":"#guus1275_start5",
+         "name":"guus1275_start5",
          "opacity":1,
          "properties":[
                 {
@@ -644,7 +644,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":30,
          "id":28,
-         "name":"#MPFDS342_start6",
+         "name":"MPFDS342_start6",
          "opacity":1,
          "properties":[
                 {
@@ -691,7 +691,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":30,
          "id":29,
-         "name":"#aPFDS987_start7",
+         "name":"aPFDS987_start7",
          "opacity":1,
          "properties":[
                 {
@@ -738,7 +738,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":30,
          "id":30,
-         "name":"#aP88987_start8",
+         "name":"aP88987_start8",
          "opacity":1,
          "properties":[
                 {
@@ -1506,7 +1506,7 @@
          "value":"src\/index.ts"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.8.5",
+ "tiledversion":"1.10.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -11516,6 +11516,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.8",
+ "version":"1.10",
  "width":30
 }
