@@ -1450,7 +1450,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"@\/esgi-hackathon\/esgi-hackathon\/challenge"
+                 "value":"\/@\/esgi-hackathon\/esgi-hackathon\/challenge"
                 }],
          "type":"tilelayer",
          "visible":true,
